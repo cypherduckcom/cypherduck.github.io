@@ -7,14 +7,11 @@
 <div class="main">
 <header>
 
-<div class="header-bar">
-  <nav>
-    <div class="siteTitle">
-      <a href="{{ .Site.BaseURL }}">
-        {{/* Logo image removed */}}
-        {{ .Site.Title }}
-      </a>
-    </div> <!--siteTitle-->
+<div class="siteTitle">
+  <a href="{{ .Site.BaseURL }}">
+    <img src="{{ "images/logo.png" | relURL }}" alt="{{ .Site.Title }}">
+  </a>
+</div> <!--siteTitle-->
 
 
     {{ $currentPage := . }}
