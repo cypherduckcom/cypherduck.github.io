@@ -1,0 +1,160 @@
+/* Hugo Dusk Theme - Custom Color Variables */
+/* Add this to your custom CSS file or override the theme's CSS */
+
+:root {
+  /* Duck Logo Inspired Color Palette */
+  --primary-gold: #F4C430;
+  --primary-gold-dark: #D4A574;
+  --navy-background: #1B2951;
+  --navy-dark: #0F1419;
+  --slate-blue: #5B7C99;
+  --slate-blue-light: #6B8CAA;
+  --accent-orange: #CC6600;
+  --accent-orange-dark: #B8621B;
+  --text-light: #FFFFFF;
+  --text-dark: #1A1A1A;
+}
+
+/* Override Dusk theme default colors */
+
+/* Background colors */
+body {
+  background-color: var(--navy-dark);
+  color: var(--text-light);
+}
+
+/* Header/Navigation */
+.site-header {
+  background-color: var(--navy-background);
+}
+
+.site-nav a {
+  color: var(--text-light);
+}
+
+.site-nav a:hover {
+  color: var(--primary-gold);
+}
+
+/* Main content area */
+.main-content {
+  background-color: var(--navy-background);
+}
+
+/* Post/Article styling */
+.post-title a {
+  color: var(--primary-gold);
+}
+
+.post-title a:hover {
+  color: var(--primary-gold-dark);
+}
+
+/* Links */
+a {
+  color: var(--primary-gold);
+}
+
+a:hover {
+  color: var(--accent-orange);
+}
+
+/* Buttons */
+.btn, button {
+  background-color: var(--accent-orange);
+  color: var(--text-light);
+  border: none;
+}
+
+.btn:hover, button:hover {
+  background-color: var(--accent-orange-dark);
+}
+
+/* Sidebar (if present) */
+.sidebar {
+  background-color: var(--slate-blue);
+}
+
+/* Code blocks */
+pre {
+  background-color: var(--navy-dark);
+  border: 1px solid var(--slate-blue);
+}
+
+code {
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--primary-gold);
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+}
+
+/* Tags/Categories */
+.tag, .category {
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+}
+
+.tag:hover, .category:hover {
+  background-color: var(--primary-gold);
+  color: var(--text-dark);
+}
+
+/* Footer */
+.site-footer {
+  background-color: var(--navy-dark);
+  border-top: 2px solid var(--slate-blue);
+}
+
+/* Pagination */
+.pagination a {
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+}
+
+.pagination a:hover {
+  background-color: var(--primary-gold);
+  color: var(--text-dark);
+}
+
+.pagination .current {
+  background-color: var(--accent-orange);
+  color: var(--text-light);
+}
+
+/* Search (if enabled) */
+.search-input {
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+  border: 1px solid var(--primary-gold);
+}
+
+/* Table styling */
+table {
+  background-color: var(--navy-background);
+}
+
+th {
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+}
+
+tr:nth-child(even) {
+  background-color: rgba(91, 124, 153, 0.2);
+}
+
+/* Form elements */
+input, textarea, select {
+  background-color: var(--slate-blue);
+  color: var(--text-light);
+  border: 1px solid var(--primary-gold);
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: var(--accent-orange);
+  box-shadow: 0 0 5px rgba(244, 196, 48, 0.5);
+}

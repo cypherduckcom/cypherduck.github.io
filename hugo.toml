@@ -11,7 +11,7 @@ pygmentsCodeFences = true
 [params]
   description = "Cypherduck"
   # Social links (optional)
-  # email = "your-email@example.com"
+  email = "contact@cypherduck.com"
   # Color scheme options: auto, light, dark
   colorScheme = "auto"
 
