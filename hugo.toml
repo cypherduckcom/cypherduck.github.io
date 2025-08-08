@@ -1,0 +1,26 @@
+baseURL = 'https://cypherduck.com'
+languageCode = 'en-us'
+title = 'Cypherduck'
+theme = 'hugo-dusk'
+
+# Enable syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+[params]
+  description = "Cypherduck"
+  
+  # Social links (optional)
+  # email = "your-email@example.com"
+  
+  # Color scheme options: auto, light, dark
+  colorScheme = "auto"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+    codeFences = true

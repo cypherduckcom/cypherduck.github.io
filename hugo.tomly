@@ -1,0 +1,7 @@
+baseURL = 'https://cypherduck.com'
+languageCode = 'en-us'
+title = 'Cypherduck'
+theme = 'ananke'
+
+[params]
+  description = "Cypherduck"
