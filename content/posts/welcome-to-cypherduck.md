@@ -10,7 +10,7 @@ Digital privacy is disappearing. Companies harvest your data for profit. Governm
 
 Most people accept this as inevitable. It's not.
 
-Cypherduck covers practical privacy and security solutions. We focus on tools you can actually use: encryption software, self-hosted services, privacy-focused cryptocurrencies, and network security setups.
+Cypherduck covers practical privacy and security solutions. I focus on tools you can actually use: encryption software, self-hosted services, privacy-focused cryptocurrencies, and network security setups.
 
 No theoretical discussions. No corporate privacy policies to parse. Just working solutions with clear implementation guides.
 
