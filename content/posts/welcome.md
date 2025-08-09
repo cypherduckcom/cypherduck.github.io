@@ -1,8 +1,9 @@
 +++
-date = '2025-08-09T08:54:19-04:00'
+date = '2025-08-09T09:05:56-04:00'
 draft = true
-title = 'Welcome!'
+title = 'Welcome'
 +++
+
 Hello reader, welcome to the resistance!
 
 We're living in a world where your smart doorbell is probably gossiping about your package deliveries to Amazon, your email provider is training AI models on your love letters, and somehow your grocery store loyalty card knows you're lactose intolerant before your doctor does. Your data's being harvested faster than a Bitcoin mining farm burns through electricity, and quite frankly, that's just not okay.
