@@ -10,7 +10,7 @@ We're living in a world where your smart doorbell is probably gossiping about yo
 
 That's where Cypherduck comes in.
 
-Look, I've heard the saying "if you're not paying, you're the product" approximately 847 times, but I feel like "if you're not self-hosting, you're just renting your digital life" is more fitting for 2025. This isn't another blog telling you to "just use a VPN" and call it a day (though honestly, you probably should). We're here to dive deep into the tools, techniques, and spectacular failures that actually give you control over your digital existence.
+Look, I've heard the saying "if you're not paying, you're the product" approximately 847 times, but I feel like "if you're not self-hosting, you're just renting your digital life" is more fitting for 2025. This isn't another blog telling you to "just use a VPN" and call it a day (though honestly, you probably should). We're here to dive deep into the tools and techniques that actually give you control over your digital existence.
 
 Whether you're a crypto enthusiast trying to navigate the latest privacy coins without getting rugpulled, a self-hosting newbie wondering if you can really ditch Google Photos without losing your sanity, or someone who just wants to understand why everyone's suddenly talking about zero-knowledge proofs – we've got you covered.
 
