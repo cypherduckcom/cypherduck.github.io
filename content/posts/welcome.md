@@ -1,7 +1,7 @@
 +++
 date = '2025-08-09T08:54:19-04:00'
 draft = true
-title = 'Welcome'
+title = 'Welcome!'
 +++
 Hello reader, welcome to the resistance!
 
