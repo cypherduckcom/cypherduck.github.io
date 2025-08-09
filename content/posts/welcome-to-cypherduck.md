@@ -4,20 +4,25 @@ draft = false
 title = 'Welcome to Cypherduck'
 +++
 
-Hello reader, welcome to the resistance!
+Welcome to Cypherduck
 
-We're living in a world where your smart doorbell is probably gossiping about your package deliveries to Amazon, your email provider is training AI models on your love letters, and somehow your grocery store loyalty card knows you're lactose intolerant before your doctor does. Your data's being harvested faster than a Bitcoin mining farm burns through electricity, and quite frankly, that's just not okay.
+Digital privacy is disappearing. Companies harvest your data for profit. Governments expand surveillance programs. Your personal information gets sold to the highest bidder.
 
-That's where Cypherduck comes in.
+Most people accept this as inevitable. It's not.
 
-Look, I've heard the saying "if you're not paying, you're the product" approximately 847 times, but I feel like "if you're not self-hosting, you're just renting your digital life" is more fitting for 2025. This isn't another blog telling you to "just use a VPN" and call it a day (though honestly, you probably should). We're here to dive deep into the tools and techniques that actually give you control over your digital existence.
+Cypherduck covers practical privacy and security solutions. We focus on tools you can actually use: encryption software, self-hosted services, privacy-focused cryptocurrencies, and network security setups.
 
-Whether you're a crypto enthusiast trying to navigate the latest privacy coins without getting rugpulled, a self-hosting newbie wondering if you can really ditch Google Photos without losing your sanity, or someone who just wants to understand why everyone's suddenly talking about zero-knowledge proofs – we've got you covered.
+No theoretical discussions. No corporate privacy policies to parse. Just working solutions with clear implementation guides.
 
-We believe privacy shouldn't require a computer science degree or the patience of a saint (though both help). Sure, some of this stuff gets technical – we're not going to pretend that spinning up your own Matrix server is as easy as making toast – but we'll break it down without talking down to you.
+Topics include:
+- Email and messaging encryption
+- Self-hosting your own services
+- Cryptocurrency privacy techniques
+- Network-wide ad and tracker blocking
+- Secure operating systems and hardware
 
-Your data is yours. Your communications should be private. And yes, you absolutely can host your own Netflix-style streaming server without losing your mind or your marriage.
+Privacy requires effort. The tools exist and they work. Most people just don't know they're available or how to use them.
 
-Plus, I trust my own hardware more than I trust Mark Zuckerberg with literally anything.
+That changes here.
 
-Ready to reclaim your digital sovereignty? Let's get started.
+Take back control of your digital life.
