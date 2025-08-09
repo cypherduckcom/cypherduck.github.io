@@ -1,7 +1,7 @@
 +++
-date = '2025-08-09T09:05:56-04:00'
+date = '2025-08-09T09:10:59-04:00'
 draft = true
-title = 'Welcome'
+title = 'Welcome to Cypherduck'
 +++
 
 Hello reader, welcome to the resistance!
